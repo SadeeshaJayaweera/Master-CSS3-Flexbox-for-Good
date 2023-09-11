@@ -53,4 +53,4 @@ This repository and its contents are provided under the [MIT License](LICENSE). 
 
 Happy learning, and may you master CSS3 Flexbox for good! 😃
 
-![Course Banner](course-banner.png)
+<img src="./Course Banner.png">
