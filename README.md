@@ -1,6 +1,6 @@
 # Master CSS3 Flexbox for Good
 
-![Course Logo](course-logo.png)
+<img src="./image.png">
 
 Welcome to the GitHub repository for the Udemy course "Master CSS3 Flexbox for Good" by Peter Sommerhoff. In this repository, you will find all the code examples, exercises, and resources associated with the course.
 
